@@ -1,0 +1,3 @@
+ruff.toml
+.venv/*
+aws_attribute_log.txt
